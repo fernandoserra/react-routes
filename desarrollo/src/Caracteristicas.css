@@ -1,0 +1,9 @@
+.colCaracteristicas{
+  width: 50%;
+  float: left;
+
+}
+.cardContent{
+  min-height: 400px;
+  margin: 20px;
+}
